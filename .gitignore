@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+.env
+prod.env
+test-results/
+playwright-report/
+allure-results/
+allure-report/
+dist/
+*.log
